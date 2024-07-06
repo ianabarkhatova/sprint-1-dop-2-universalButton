@@ -62,7 +62,7 @@ function App() {
             </Modal>
 
             <Modal>
-                <h1>Confidencial information</h1>
+                <h1>Confidential information</h1>
                 <input type="email"/>
                 <input type="password"/>
                 <input type="password"/>
